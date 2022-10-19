@@ -1,1 +1,9 @@
 
+server:
+  port: 7778
+
+spring:
+  data:
+    mongodb:
+      host: mongodb+srv://sai:said@practice.0bn04ej.mongodb.net/?retryWrites=true&w=majority
+      database: microservice-doc
